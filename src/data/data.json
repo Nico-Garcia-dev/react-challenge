@@ -1,0 +1,18 @@
+[
+	{
+		"id": 1,
+		"title": "coucou",
+		"description": "klejfzlekfhzelhf",
+		"price": 10,
+		"image": "/images/pc.jpg",
+		"category": "pc"
+	},
+	{
+		"id": 2,
+		"title": "roro",
+		"description": "klejfzlekfhzelhf",
+		"price": 12,
+		"image": "/images/pc.jpg",
+		"category": "pc"
+	}
+]
