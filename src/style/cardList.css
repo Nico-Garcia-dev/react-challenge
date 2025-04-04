@@ -1,4 +1,4 @@
-main {
+.cards {
 	display: grid;
 	justify-content: center;
 	grid-auto-columns: max-content;
@@ -6,4 +6,21 @@ main {
 	gap: 1em;
 	padding-top: 3em;
 	padding-bottom: 3em;
+}
+
+.filterBtn {
+	display: flex;
+	justify-content: space-evenly;
+	background-color: whitesmoke;
+	padding: 1em;
+	width: 100%;
+	button {
+		height: 2em;
+		width: 6em;
+		padding: .3em;
+		cursor: pointer;
+		background-color: rgb(228, 222, 222);
+		color: black;
+		border-radius: 25px;
+	}
 }
