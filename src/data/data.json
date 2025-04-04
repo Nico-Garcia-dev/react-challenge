@@ -1,18 +1,162 @@
 [
 	{
 		"id": 1,
-		"title": "coucou",
-		"description": "klejfzlekfhzelhf",
-		"price": 10,
-		"image": "/images/pc.jpg",
-		"category": "pc"
+		"title": "Gaming PC Pro X",
+		"description": "High-performance gaming computer with RGB lighting and latest generation processor",
+		"price": 1299,
+		"image": "https://images.unsplash.com/photo-1587831990711-23ca6441447b",
+		"category": "computer"
 	},
 	{
 		"id": 2,
-		"title": "roro",
-		"description": "klejfzlekfhzelhf",
-		"price": 12,
-		"image": "/images/pc.jpg",
-		"category": "pc"
+		"title": "Office Desktop Basic",
+		"description": "Reliable desktop computer perfect for work and everyday tasks",
+		"price": 699,
+		"image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5",
+		"category": "computer"
+	},
+	{
+		"id": 3,
+		"title": "Mechanical RGB Keyboard",
+		"description": "Premium mechanical keyboard with customizable RGB backlight",
+		"price": 129,
+		"image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+		"category": "keyboards"
+	},
+	{
+		"id": 4,
+		"title": "Wireless Gaming Headset",
+		"description": "Professional gaming headset with surround sound and noise cancellation",
+		"price": 159,
+		"image": "https://images.unsplash.com/photo-1599669454699-248893623440",
+		"category": "headsets"
+	},
+	{
+		"id": 5,
+		"title": "Compact Mini PC",
+		"description": "Space-saving computer perfect for home entertainment setup",
+		"price": 499,
+		"image": "https://images.unsplash.com/photo-1593640495253-23196b27a87f",
+		"category": "computer"
+	},
+	{
+		"id": 6,
+		"title": "Silent Office Keyboard",
+		"description": "Low-profile membrane keyboard designed for quiet typing",
+		"price": 49,
+		"image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+		"category": "keyboards"
+	},
+	{
+		"id": 7,
+		"title": "Studio Headphones Pro",
+		"description": "High-fidelity headphones for professional audio work",
+		"price": 199,
+		"image": "https://images.unsplash.com/photo-1583394838336-acd977736f90",
+		"category": "headsets"
+	},
+	{
+		"id": 8,
+		"title": "Workstation PC Elite",
+		"description": "Professional workstation for demanding applications and rendering",
+		"price": 1899,
+		"image": "https://images.unsplash.com/photo-1591405351990-4726e331f141",
+		"category": "computer"
+	},
+	{
+		"id": 9,
+		"title": "Gaming Keyboard Elite",
+		"description": "Tournament-grade mechanical keyboard with macro keys",
+		"price": 149,
+		"image": "https://images.unsplash.com/photo-1595225476474-87563907a212",
+		"category": "keyboards"
+	},
+	{
+		"id": 10,
+		"title": "Bluetooth Travel Headset",
+		"description": "Compact wireless headset perfect for travel and calls",
+		"price": 79,
+		"image": "https://images.unsplash.com/photo-1484704849700-f032a568e944",
+		"category": "headsets"
+	},
+	{
+		"id": 11,
+		"title": "All-in-One PC",
+		"description": "Sleek all-in-one computer with touchscreen display",
+		"price": 899,
+		"image": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf",
+		"category": "computer"
+	},
+	{
+		"id": 12,
+		"title": "Wireless Ergonomic Keyboard",
+		"description": "Comfortable ergonomic keyboard for long typing sessions",
+		"price": 89,
+		"image": "https://images.unsplash.com/photo-1587829741301-dc798b83add3",
+		"category": "keyboards"
+	},
+	{
+		"id": 13,
+		"title": "Premium Gaming Headset",
+		"description": "Top-tier gaming headset with virtual surround sound",
+		"price": 249,
+		"image": "https://images.unsplash.com/photo-1618366712010-f4ae9c647dcb",
+		"category": "headsets"
+	},
+	{
+		"id": 14,
+		"title": "Student PC Bundle",
+		"description": "Affordable computer package perfect for students",
+		"price": 599,
+		"image": "https://images.unsplash.com/photo-1591370874773-6702e8f12fd8",
+		"category": "computer"
+	},
+	{
+		"id": 15,
+		"title": "Compact Gaming Keyboard",
+		"description": "60% size mechanical keyboard for competitive gaming",
+		"price": 109,
+		"image": "https://images.unsplash.com/photo-1595225476474-87563907a212",
+		"category": "keyboards"
+	},
+	{
+		"id": 16,
+		"title": "Budget Gaming Headset",
+		"description": "Quality gaming headset at an affordable price",
+		"price": 45,
+		"image": "https://images.unsplash.com/photo-1599669454699-248893623440",
+		"category": "headsets"
+	},
+	{
+		"id": 17,
+		"title": "Creator PC Pro",
+		"description": "High-end computer optimized for content creation",
+		"price": 1599,
+		"image": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5",
+		"category": "computer"
+	},
+	{
+		"id": 18,
+		"title": "Wireless Gaming Keyboard",
+		"description": "Low-latency wireless keyboard for gaming freedom",
+		"price": 139,
+		"image": "https://images.unsplash.com/photo-1595225476474-87563907a212",
+		"category": "keyboards"
+	},
+	{
+		"id": 19,
+		"title": "Noise Cancelling Headset",
+		"description": "Premium headset with active noise cancellation",
+		"price": 179,
+		"image": "https://images.unsplash.com/photo-1583394838336-acd977736f90",
+		"category": "headsets"
+	},
+	{
+		"id": 20,
+		"title": "Home Theater PC",
+		"description": "Compact computer designed for media playback",
+		"price": 449,
+		"image": "https://images.unsplash.com/photo-1547082299-de196ea013d6",
+		"category": "computer"
 	}
 ]

@@ -1,0 +1,27 @@
+.card {
+	display: flex;
+	flex-direction: column;
+	width: 15em;
+	padding: 1em;
+	background-color: rgb(243, 243, 234);
+	color: black;
+	text-align: center;
+	border-radius: 20px;
+	box-shadow: 0 0.125em 0.25em rgba(0, 0, 0, 0.3);
+
+	img {
+		display: flex;
+		width: auto;
+		height: 10em;
+
+		border-radius: inherit;
+	}
+	h2 {
+		text-align: left;
+		font-size: 1em;
+		margin-bottom: .2rem;
+	}
+	span {
+		text-align: left;
+	}
+}

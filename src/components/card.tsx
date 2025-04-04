@@ -1,5 +1,7 @@
 import type { CardProps } from "../types/types";
 
+import "../style/card.css";
+
 export default function Card({
 	title,
 	description,
@@ -8,11 +10,12 @@ export default function Card({
 	category,
 }: CardProps) {
 	return (
-		<section>
+		<section className="card">
 			<img src={image} alt="article pic" />
 			<h2>{title}</h2>
+			<span>Prix: {price}€</span>
 			<p>{description}</p>
-			<span>{price}</span>
+
 			<h3>{category}</h3>
 		</section>
 	);

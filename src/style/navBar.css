@@ -1,0 +1,19 @@
+.navBar {
+	display: flex;
+	background-color: whitesmoke;
+	justify-content: space-between;
+	width: 100%;
+	padding: 1.5em;
+	box-shadow: 0 0.125em 0.25em rgba(0, 0, 0, 0.3);
+	img {
+		width: 5em;
+	}
+	span {
+		display: flex;
+		align-items: center;
+		font-weight: bold;
+		font-size: 2em;
+		color: black;
+		font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+	}
+}

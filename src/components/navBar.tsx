@@ -1,3 +1,10 @@
+import "../style/navBar.css";
+
 export default function NavBar() {
-	return <nav>nav</nav>;
+	return (
+		<nav className="navBar">
+			<img src="../images/logo.png" alt="logo" />
+			<span>As - Tech</span>
+		</nav>
+	);
 }
