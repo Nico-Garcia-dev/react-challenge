@@ -1,0 +1,9 @@
+main {
+	display: grid;
+	justify-content: center;
+	grid-auto-columns: max-content;
+	grid-template-areas: "a a a a";
+	gap: 1em;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}

@@ -1,12 +1,13 @@
 import data from "../data/data.json";
 import type { ArticleType } from "../types/types.ts";
 
+import "../style/cardList.css";
+
 import Card from "./card";
 
 export default function CardList() {
 	return (
 		<main>
-			Card List
 			{data.map((d: ArticleType) => (
 				<Card
 					key={d.id}
